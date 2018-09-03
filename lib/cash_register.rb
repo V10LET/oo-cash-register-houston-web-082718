@@ -39,3 +39,4 @@ class CashRegister
     @total -= last_item
   end
 end
+
