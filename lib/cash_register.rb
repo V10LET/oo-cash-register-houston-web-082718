@@ -30,4 +30,8 @@ class CashRegister
   def items
     @items_list
   end
+  
+  def void_last_transaction
+    
+  end
 end
